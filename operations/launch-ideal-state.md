@@ -2,7 +2,9 @@
 
 Status: proposed process based on Matilda's launch-process diagram. Ownership and gates require validation against current internal policy.
 
-![Launch process in a FigJam-style layout](launch-ideal-state.png)
+![Launch process in a FigJam-style layout](launch-ideal-state.svg)
+
+[Scalable vector diagram (SVG)](launch-ideal-state.svg) · [High-resolution PNG, 6720 × 3000](launch-ideal-state.png)
 
 ## Workflow
 
@@ -43,4 +45,4 @@ The original diagram established useful PRD inputs and GTM workstreams. This rev
 
 The proposal was reviewed for ownership, inputs, outputs, dependencies and failure paths. It has not been validated against live internal policy or tested through an actual launch. Confirm approval authority, rollout gates and timing before adopting it as company policy.
 
-The accompanying PNG resembles the original FigJam design; it is an image mockup, not an editable FigJam board. This document is the editable process description.
+The diagram uses a precisely positioned SVG with Arial specified as the primary font and Helvetica/sans-serif fallbacks. It preserves the FigJam-style layout without sticky notes. The SVG stays sharp at any zoom; the PNG is a 6720 × 3000 export. Neither is a native FigJam board. This document is the editable process description.

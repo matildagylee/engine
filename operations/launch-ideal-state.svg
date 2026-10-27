@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3360" height="1500" viewBox="0 0 3360 1500" role="img" aria-labelledby="title desc">
+<title id="title">Launch process: proposed ideal state</title><desc id="desc">Seven-stage launch process, with centered supporting cards, stakeholder intake, six execution workstreams and feedback loops.</desc>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r="1.2" fill="#d8dde1"/></pattern><marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#64686b" stroke-width="2"/></marker></defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#16191c}.heading{font-weight:700;font-size:23px}.body{font-size:21px}.wire{fill:none;stroke:#64686b;stroke-width:2;stroke-linejoin:round;stroke-linecap:round}.card{fill:#fff;stroke:#777d81;stroke-width:2}</style>
+<rect width="3360" height="1500" fill="#fafbfc"/><rect width="3360" height="1500" fill="url(#dots)"/>
+<text x="50" y="72" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" text-anchor="start">Launch process · proposed ideal state</text>
+<path class="wire" d="M 3060 560 V 170 H 300 V 548" marker-end="url(#arrow)"/>
+<text x="1680" y="145" class="body" text-anchor="middle">Feed learning into the next launch</text>
+<path class="wire" d="M 2600 560 V 470 H 2140 V 548" marker-end="url(#arrow)"/>
+<text x="2370" y="445" class="body" text-anchor="middle">Not ready: resolve blockers</text>
+<path class="wire" d="M 480.0 645 H 574.0" marker-end="url(#arrow)"/>
+<path class="wire" d="M 940.0 645 H 1034.0" marker-end="url(#arrow)"/>
+<path class="wire" d="M 1400.0 645 H 1494.0" marker-end="url(#arrow)"/>
+<path class="wire" d="M 1860.0 645 H 1954.0" marker-end="url(#arrow)"/>
+<path class="wire" d="M 2320.0 645 H 2414.0" marker-end="url(#arrow)"/>
+<path class="wire" d="M 2780.0 645 H 2874.0" marker-end="url(#arrow)"/>
+<rect class="card" x="120.0" y="560" width="360" height="170" rx="5"/>
+<text x="300" y="596" class="heading" text-anchor="middle">1. Scope &amp; PRD</text>
+<text x="300" y="639" class="body" text-anchor="middle">Product</text>
+<rect class="card" x="580.0" y="560" width="360" height="170" rx="5"/>
+<text x="760" y="596" class="heading" text-anchor="middle">2. Launch intake</text>
+<text x="760" y="639" class="body" text-anchor="middle">Product + PMM</text>
+<text x="760" y="669" class="body" text-anchor="middle">Program Manager coordinates</text>
+<rect class="card" x="1040.0" y="560" width="360" height="170" rx="5"/>
+<text x="1220" y="596" class="heading" text-anchor="middle">3. Draft GTM strategy</text>
+<text x="1220" y="639" class="body" text-anchor="middle">Automation drafts</text>
+<text x="1220" y="669" class="body" text-anchor="middle">PMM reviews</text>
+<rect class="card" x="1500.0" y="560" width="360" height="170" rx="5"/>
+<text x="1680" y="596" class="heading" text-anchor="middle">4. Approve &amp; create</text>
+<text x="1680" y="627" class="heading" text-anchor="middle">workspace</text>
+<text x="1680" y="670" class="body" text-anchor="middle">PMM + Product approve</text>
+<text x="1680" y="700" class="body" text-anchor="middle">Automation creates</text>
+<rect class="card" x="1960.0" y="560" width="360" height="170" rx="5"/>
+<text x="2140" y="596" class="heading" text-anchor="middle">5. Execute workstreams</text>
+<text x="2140" y="639" class="body" text-anchor="middle">Named owner per deliverable</text>
+<rect class="card" x="2420.0" y="560" width="360" height="170" rx="5"/>
+<text x="2600" y="596" class="heading" text-anchor="middle">6. Readiness decision</text>
+<text x="2600" y="639" class="body" text-anchor="middle">Product: release readiness</text>
+<text x="2600" y="669" class="body" text-anchor="middle">PMM: GTM readiness</text>
+<rect class="card" x="2880.0" y="560" width="360" height="170" rx="5"/>
+<text x="3060" y="596" class="heading" text-anchor="middle">7. Launch, measure &amp; learn</text>
+<text x="3060" y="639" class="body" text-anchor="middle">Owners monitor outcomes</text>
+<path class="wire" d="M 300 730 V 775"/>
+<path class="wire" d="M 300 775 H 170 V 808" marker-end="url(#arrow)"/>
+<path class="wire" d="M 300 775 H 430 V 808" marker-end="url(#arrow)"/>
+<rect class="card" x="50.0" y="820" width="240" height="300" rx="5"/>
+<text x="72.0" y="856" class="heading" text-anchor="start">PRD inputs</text>
+<text x="72.0" y="899" class="body" text-anchor="start">What + why +</text>
+<text x="72.0" y="929" class="body" text-anchor="start">audience</text>
+<text x="72.0" y="959" class="body" text-anchor="start">GA scope +</text>
+<text x="72.0" y="989" class="body" text-anchor="start">exclusions</text>
+<text x="72.0" y="1019" class="body" text-anchor="start">Impact hypothesis</text>
+<text x="72.0" y="1049" class="body" text-anchor="start">Dependencies</text>
+<rect class="card" x="310.0" y="820" width="240" height="300" rx="5"/>
+<text x="332.0" y="856" class="heading" text-anchor="start">Success</text>
+<text x="332.0" y="887" class="heading" text-anchor="start">definition</text>
+<text x="332.0" y="930" class="body" text-anchor="start">Baseline + target</text>
+<text x="332.0" y="960" class="body" text-anchor="start">Measurement owner</text>
+<text x="332.0" y="990" class="body" text-anchor="start">Availability</text>
+<text x="332.0" y="1020" class="body" text-anchor="start">assumptions</text>
+<rect class="card" x="370.0" y="270" width="180" height="150" rx="5"/>
+<text x="460" y="318" class="body" text-anchor="middle">PMM</text>
+<path class="wire" d="M 460 420 V 460"/>
+<rect class="card" x="570.0" y="270" width="180" height="150" rx="5"/>
+<text x="660" y="318" class="body" text-anchor="middle">Enablement /</text>
+<text x="660" y="348" class="body" text-anchor="middle">Education</text>
+<path class="wire" d="M 660 420 V 460"/>
+<rect class="card" x="770.0" y="270" width="180" height="150" rx="5"/>
+<text x="860" y="318" class="body" text-anchor="middle">CX / Support</text>
+<path class="wire" d="M 860 420 V 460"/>
+<rect class="card" x="970.0" y="270" width="180" height="150" rx="5"/>
+<text x="1060" y="318" class="body" text-anchor="middle">Executive</text>
+<text x="1060" y="348" class="body" text-anchor="middle">sponsor</text>
+<text x="1060" y="378" class="body" text-anchor="middle">as needed</text>
+<path class="wire" d="M 1060 420 V 460"/>
+<path class="wire" d="M 460 460 H 1060"/>
+<path class="wire" d="M 760 460 V 548" marker-end="url(#arrow)"/>
+<path class="wire" d="M 760 730 V 808" marker-end="url(#arrow)"/>
+<path class="wire" d="M 1220 730 V 808" marker-end="url(#arrow)"/>
+<path class="wire" d="M 1680 730 V 808" marker-end="url(#arrow)"/>
+<path class="wire" d="M 2600 730 V 808" marker-end="url(#arrow)"/>
+<path class="wire" d="M 3060 730 V 808" marker-end="url(#arrow)"/>
+<rect class="card" x="580.0" y="820" width="360" height="280" rx="5"/>
+<text x="602.0" y="856" class="heading" text-anchor="start">Agree tier, scope &amp; rollout</text>
+<text x="602.0" y="899" class="body" text-anchor="start">Name owners and decision</text>
+<text x="602.0" y="929" class="body" text-anchor="start">maker</text>
+<text x="602.0" y="959" class="body" text-anchor="start">Confirm dates and</text>
+<text x="602.0" y="989" class="body" text-anchor="start">dependencies</text>
+<text x="602.0" y="1019" class="body" text-anchor="start">Scale deliverables to launch tier</text>
+<text x="602.0" y="1049" class="body" text-anchor="start">Omit unnecessary assets</text>
+<rect class="card" x="1040.0" y="820" width="360" height="280" rx="5"/>
+<text x="1062.0" y="856" class="heading" text-anchor="start">Strategy inputs</text>
+<text x="1062.0" y="899" class="body" text-anchor="start">PRD + customer evidence</text>
+<text x="1062.0" y="929" class="body" text-anchor="start">Foundation messaging +</text>
+<text x="1062.0" y="959" class="body" text-anchor="start">template</text>
+<text x="1062.0" y="989" class="body" text-anchor="start">Flag unknowns for review</text>
+<text x="1062.0" y="1019" class="body" text-anchor="start">PMM validates evidence</text>
+<text x="1062.0" y="1049" class="body" text-anchor="start">and approves the draft</text>
+<rect class="card" x="1500.0" y="820" width="360" height="280" rx="5"/>
+<text x="1522.0" y="856" class="heading" text-anchor="start">Linked launch workspace</text>
+<text x="1522.0" y="899" class="body" text-anchor="start">Linear project + tier-based tasks</text>
+<text x="1522.0" y="929" class="body" text-anchor="start">Strategy document + timeline</text>
+<text x="1522.0" y="959" class="body" text-anchor="start">Slack channel + owners</text>
+<text x="1522.0" y="989" class="body" text-anchor="start">Create after approval</text>
+<text x="1522.0" y="1019" class="body" text-anchor="start">Reuse existing projects</text>
+<rect class="card" x="2400.0" y="820" width="400" height="280" rx="5"/>
+<text x="2422.0" y="856" class="heading" text-anchor="start">Readiness evidence</text>
+<text x="2422.0" y="899" class="body" text-anchor="start">Scope, claims and pricing confirmed</text>
+<text x="2422.0" y="929" class="body" text-anchor="start">Required assets and training ready</text>
+<text x="2422.0" y="959" class="body" text-anchor="start">Tracking, support and rollback ready</text>
+<text x="2422.0" y="989" class="body" text-anchor="start">Product + GTM sign-off required</text>
+<text x="2422.0" y="1019" class="body" text-anchor="start">Resolve blockers or revise date</text>
+<rect class="card" x="2880.0" y="820" width="360" height="250" rx="5"/>
+<text x="2902.0" y="856" class="heading" text-anchor="start">Post-launch review</text>
+<text x="2902.0" y="899" class="body" text-anchor="start">Results vs baseline and target</text>
+<text x="2902.0" y="929" class="body" text-anchor="start">Adoption + customer feedback</text>
+<text x="2902.0" y="959" class="body" text-anchor="start">Actions, owners and learning</text>
+<path class="wire" d="M 2140 730 V 1150"/>
+<path class="wire" d="M 1440 1150 H 2840"/>
+<path class="wire" d="M 1440 1150 V 1188" marker-end="url(#arrow)"/>
+<path class="wire" d="M 1720 1150 V 1188" marker-end="url(#arrow)"/>
+<path class="wire" d="M 2000 1150 V 1188" marker-end="url(#arrow)"/>
+<path class="wire" d="M 2280 1150 V 1188" marker-end="url(#arrow)"/>
+<path class="wire" d="M 2560 1150 V 1188" marker-end="url(#arrow)"/>
+<path class="wire" d="M 2840 1150 V 1188" marker-end="url(#arrow)"/>
+<rect class="card" x="1310.0" y="1200" width="260" height="245" rx="5"/>
+<text x="1332.0" y="1236" class="heading" text-anchor="start">Positioning &amp;</text>
+<text x="1332.0" y="1267" class="heading" text-anchor="start">messaging</text>
+<text x="1332.0" y="1310" class="body" text-anchor="start">PMM</text>
+<text x="1332.0" y="1340" class="body" text-anchor="start">Approved narrative</text>
+<text x="1332.0" y="1370" class="body" text-anchor="start">Messaging database</text>
+<rect class="card" x="1590.0" y="1200" width="260" height="245" rx="5"/>
+<text x="1612.0" y="1236" class="heading" text-anchor="start">Pricing &amp;</text>
+<text x="1612.0" y="1267" class="heading" text-anchor="start">packaging</text>
+<text x="1612.0" y="1310" class="body" text-anchor="start">Product + Revenue +</text>
+<text x="1612.0" y="1340" class="body" text-anchor="start">PMM</text>
+<text x="1612.0" y="1370" class="body" text-anchor="start">Decisions before</text>
+<text x="1612.0" y="1400" class="body" text-anchor="start">dependent assets</text>
+<rect class="card" x="1870.0" y="1200" width="260" height="245" rx="5"/>
+<text x="1892.0" y="1236" class="heading" text-anchor="start">Enablement</text>
+<text x="1892.0" y="1279" class="body" text-anchor="start">Enablement /</text>
+<text x="1892.0" y="1309" class="body" text-anchor="start">Education</text>
+<text x="1892.0" y="1339" class="body" text-anchor="start">Training + internal</text>
+<text x="1892.0" y="1369" class="body" text-anchor="start">FAQ</text>
+<rect class="card" x="2150.0" y="1200" width="260" height="245" rx="5"/>
+<text x="2172.0" y="1236" class="heading" text-anchor="start">GTM toolkit</text>
+<text x="2172.0" y="1279" class="body" text-anchor="start">PMM + contributors</text>
+<text x="2172.0" y="1309" class="body" text-anchor="start">One-pager, battlecard</text>
+<text x="2172.0" y="1339" class="body" text-anchor="start">and sales deck</text>
+<rect class="card" x="2430.0" y="1200" width="260" height="245" rx="5"/>
+<text x="2452.0" y="1236" class="heading" text-anchor="start">Campaigns &amp;</text>
+<text x="2452.0" y="1267" class="heading" text-anchor="start">collateral</text>
+<text x="2452.0" y="1310" class="body" text-anchor="start">Channel owners</text>
+<text x="2452.0" y="1340" class="body" text-anchor="start">Blog, video</text>
+<text x="2452.0" y="1370" class="body" text-anchor="start">and distribution</text>
+<rect class="card" x="2710.0" y="1200" width="260" height="245" rx="5"/>
+<text x="2732.0" y="1236" class="heading" text-anchor="start">Knowledge &amp;</text>
+<text x="2732.0" y="1267" class="heading" text-anchor="start">support</text>
+<text x="2732.0" y="1310" class="body" text-anchor="start">Product + CX /</text>
+<text x="2732.0" y="1340" class="body" text-anchor="start">Support</text>
+<text x="2732.0" y="1370" class="body" text-anchor="start">Help docs +</text>
+<text x="2732.0" y="1400" class="body" text-anchor="start">escalation</text>
+<text x="50" y="1470" class="body" text-anchor="start">Proposed ownership and gates · validate against internal policy</text>
+</svg>
