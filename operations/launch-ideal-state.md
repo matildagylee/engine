@@ -1,48 +1,95 @@
 # Launch process: proposed ideal state
 
-Status: proposed process based on Matilda's launch-process diagram. Ownership and gates require validation against current internal policy.
-
 ![Launch process in a FigJam-style layout](launch-ideal-state.svg)
 
-[Scalable vector diagram (SVG)](launch-ideal-state.svg) · [High-resolution PNG, 6720 × 3000](launch-ideal-state.png)
+[Vector diagram (SVG)](launch-ideal-state.svg) · [HQ PNG, 6720 × 3400](launch-ideal-state.png)
 
-## Workflow
+## 1. Scope and PRD
 
-| Step | Owner | Required output |
-| --- | --- | --- |
-| 1. Scope and PRD | Product | What and why, target audience, GA scope and exclusions, impact hypothesis, dependencies and availability assumptions. Define a baseline, target and measurement owner. |
-| 2. Launch intake | Product + PMM; Program Manager coordinates | Agree launch tier, scope and rollout. Name deliverable owners and decision maker. Confirm dates and dependencies. Involve Enablement/Education, CX/Support and an executive sponsor where needed. |
-| 3. Draft GTM strategy | Automation drafts; PMM reviews | Combine PRD, customer evidence, foundation messaging and launch templates. Cover audience, positioning, goals, pricing assumptions, rollout, channels and measurement. Flag unknowns for review. |
-| 4. Approve and create workspace | PMM approves GTM strategy; Product validates product accuracy | After approval, automation creates or links the Linear project, tier-based tasks, strategy document, timeline and Slack channel. Include owners and dependencies; avoid duplicate projects. |
-| 5. Execute workstreams | Named owner per deliverable | Produce the tier-appropriate deliverables listed below. |
-| 6. Readiness decision | Product: release readiness; PMM: GTM readiness | Confirm scope, claims and pricing; required assets and training; tracking, support and rollback readiness. Resolve blockers or update scope/date before launch. |
-| 7. Launch, measure and learn | Assigned launch and measurement owners | Monitor outcomes, compare results with baseline and target, capture adoption and customer feedback, and assign follow-up actions. Feed learning into the next launch. |
+Owner: Product
 
-## Parallel workstreams
+- Explain what we are building, why, and for whom.
+- List what will and will not be ready for general availability (GA).
+- Describe the expected impact and any dependencies.
+- Set a starting point, target, and owner for tracking results.
+- Add expected release dates.
 
-| Workstream | Proposed owner | Deliverables |
-| --- | --- | --- |
-| Positioning and messaging | PMM | Positioning options, approved narrative and messaging database |
-| Pricing and packaging | Product + Revenue + PMM | Approved commercial decisions before dependent assets |
-| Enablement | Enablement/Education | Training and internal FAQ |
-| GTM toolkit | PMM + contributors | One-pager, battlecard and sales deck, according to launch tier |
-| Campaigns and collateral | Channel owners | Campaign plan, distribution, blog and video where relevant |
-| Knowledge and support | Product + CX/Support | Knowledge document, help documentation and escalation plan |
+## 2. Align the launch team
 
-Workstreams can overlap, but approve positioning before finalizing collateral and settle pricing before publishing commercial claims.
+Owners: Product and PMM
 
-## Automation boundaries
+- Include PMM, Enablement, and a GTM champion.
+- Include a program manager (PgM), if applicable.
+- Include an executive sponsor when needed.
+- Agree on launch size, scope, and rollout.
+- Name owners and approvers.
+- Confirm dates and dependencies.
+- Choose only the assets this launch needs.
 
-- Generate a strategy draft, not an approved strategy. The PRD does not settle positioning, pricing, channels or launch targets by itself.
-- Create the launch workspace after strategy approval. Link existing projects rather than creating duplicates.
-- Scale tasks and assets to launch tier. A quiet release does not need every deliverable.
-- Route changes to PRD scope, pricing or availability to affected owners for review of messaging, assets and dates.
-- External publishing remains a separate approval step.
+## 3. Build GTM + launch strategy
 
-## Critique and validation
+Owner: PMM
 
-The original diagram established useful PRD inputs and GTM workstreams. This revision adds the missing tier decision, measurable success criteria, early CX/Support involvement, explicit approval and readiness gates, a blocker-resolution loop and post-launch learning.
+- Use the PRD, customer evidence, and existing messaging.
+- Define the audience, message, goals, and pricing assumptions.
+- Choose channels, rollout steps, and ways to measure success.
+- Flag unanswered questions.
+- Scope which parts could potentially be automated.
+- Automation may be partial. PMM owns the strategy and checks any automated drafts.
 
-The proposal was reviewed for ownership, inputs, outputs, dependencies and failure paths. It has not been validated against live internal policy or tested through an actual launch. Confirm approval authority, rollout gates and timing before adopting it as company policy.
+## 4. Approve and create the launch workspace
 
-The diagram uses a precisely positioned SVG with Arial specified as the primary font and Helvetica/sans-serif fallbacks. It preserves the FigJam-style layout without sticky notes. The SVG stays sharp at any zoom; the PNG is a 6720 × 3000 export. Neither is a native FigJam board. This document is the editable process description.
+Owners: PMM and Product
+
+- PMM approves the GTM strategy. Product checks product details.
+- After approval, create or link the Linear project and tasks.
+- Link the strategy document, timeline, and Slack channel.
+- Add owners, due dates, and dependencies.
+- Reuse existing projects to avoid duplicates.
+- Automate setup where practical.
+
+## 5. Execute workstreams
+
+Give each deliverable a named owner. Scale the work to the launch size.
+
+- **Positioning and messaging — PMM:** approved story and messaging database.
+- **Pricing and packaging — Product, Revenue, and PMM:** agree pricing before creating assets that use it.
+- **Enablement — Enablement:** training and internal FAQ.
+- **GTM toolkit — PMM and contributors:** one-pager, battlecard, and sales deck, as needed.
+- **Campaigns and collateral — channel owners:** campaigns, blog, video, and distribution, as needed.
+- **Knowledge and support — Product and CX/Support:** help documents and an escalation plan.
+- **Misc. — owner assigned as needed:** other launch tasks, each with an owner and due date.
+
+Approve the message before finalizing assets. Confirm pricing before publishing commercial claims.
+
+## 6. Readiness decision: Beta and GA gates
+
+Owners: Product for product readiness; PMM for GTM readiness
+
+- **Beta gate:** confirm the product is ready for the planned beta users.
+- Monitor bugs, product behavior, and user feedback during beta.
+- **GA gate:** confirm the product is ready for wider release.
+- Product monitors readiness and confirms whether the product can move through each gate.
+- PMM checks that the required assets, training, and launch communications are ready.
+- Confirm tracking, support coverage, and a rollback plan where needed.
+- Fix blockers or change the scope or date before moving forward.
+- Continue monitoring product health after release.
+
+## 7. Launch, measure, and learn
+
+Owners: assigned launch and measurement owners
+
+- Compare results with the starting point and targets.
+- Review adoption and customer feedback.
+- Assign next steps and owners.
+- Use what we learn to improve the next launch.
+
+## Design and validation
+
+- This is a proposed process based on Matilda's diagram and requested changes.
+- Confirm internal approval rules and Beta/GA criteria before adopting it as policy.
+- The SVG uses Arial, with Helvetica and sans-serif fallbacks.
+- Supporting cards use bullet points. Sticky-note guidance is included in the relevant steps.
+- Card groups use fixed positions and centered connectors.
+- The SVG stays sharp when zoomed. The PNG is exported at 6720 × 3400 pixels.
+- These files are not a native FigJam board.
