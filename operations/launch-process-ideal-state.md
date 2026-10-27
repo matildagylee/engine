@@ -1,8 +1,8 @@
 # Launch process: proposed ideal state
 
-![Launch process in a FigJam-style layout](launch-ideal-state.svg)
+![Launch process in a FigJam-style layout](launch-process-ideal-state.svg)
 
-[Vector diagram (SVG)](launch-ideal-state.svg) · [HQ PNG, 6720 × 3400](launch-ideal-state.png)
+[Vector diagram (SVG)](launch-process-ideal-state.svg) · [HQ PNG, 6720 × 3400](launch-process-ideal-state.png)
 
 ## 1. Scope and PRD
 

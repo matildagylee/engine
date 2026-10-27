@@ -1,8 +1,8 @@
 # PMM × Growth: how we work together
 
-![PMM and Growth collaboration model](pmm-growth-collaboration.svg)
+![PMM and Growth collaboration model](pmm-growth-collaboration-ideal-state.svg)
 
-[Vector diagram (SVG)](pmm-growth-collaboration.svg) · [HQ PNG, 5600 × 4560](pmm-growth-collaboration.png)
+[Vector diagram (SVG)](pmm-growth-collaboration-ideal-state.svg) · [HQ PNG, 5600 × 4560](pmm-growth-collaboration-ideal-state.png)
 
 ## How it works
 
