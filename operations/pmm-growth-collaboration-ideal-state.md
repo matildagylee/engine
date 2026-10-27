@@ -2,12 +2,13 @@
 
 ![PMM and Growth collaboration model](pmm-growth-collaboration-ideal-state.svg)
 
-[Vector diagram (SVG)](pmm-growth-collaboration-ideal-state.svg) · [HQ PNG, 5600 × 4560](pmm-growth-collaboration-ideal-state.png)
+[Vector diagram (SVG)](pmm-growth-collaboration-ideal-state.svg) · [HQ PNG, 5600 × 4080](pmm-growth-collaboration-ideal-state.png)
 
 ## How it works
 
 - Start planning together before launch.
-- PMM owns the shared product story, target audience, and core messages.
+- The Growth VP owns the shared Growth strategy and priorities.
+- PMM feeds customer insights, ICP and persona input, positioning, messaging, and launch context into the work.
 - Each Growth team helps shape the plan and owns delivery in its channel.
 - Teams adapt the message to their channel while keeping product claims accurate.
 - Share results with PMM so the story, content, and targeting improve over time.
@@ -15,7 +16,7 @@
 
 ## One shared brief
 
-PMM brings a brief to the teams early. Build it together as new evidence comes in.
+The Growth VP sets the shared direction. PMM contributes product and customer context to a brief built with the teams. Update it together as new evidence comes in.
 
 - **Audience:** ideal customer profile (ICP), personas, pains, and buying triggers.
 - **Story:** customer problem, product value, key messages, and proof.
@@ -162,6 +163,7 @@ Account-based marketing (ABM) focuses coordinated marketing and sales work on se
 - **Before launch:** agree on the brief, content plan, landing page, channel tests, owners, and success measures.
 - **During launch:** review results, monitor product changes, and fix message or channel gaps.
 - **After launch:** compare results with goals and update messaging, personas, and the next content plan.
+- Review channel results with the Growth VP. Use the findings to inform Growth priorities and PMM inputs.
 - Keep one current brief and link to channel plans rather than copying them into separate versions.
 - Agree a review schedule that fits the size of the work.
 
@@ -172,4 +174,4 @@ Account-based marketing (ABM) focuses coordinated marketing and sales work on se
 - Includes all six requested teams, pre-launch planning, delivery ownership, and feedback to PMM.
 - Uses simple wording, bullet points, Arial with font fallbacks, and no sticky notes.
 - The SVG uses evenly spaced columns and stays sharp when zoomed.
-- The PNG is exported at 5600 × 4560 pixels.
+- The PNG is exported at 5600 × 4080 pixels.
