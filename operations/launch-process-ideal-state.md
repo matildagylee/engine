@@ -1,4 +1,4 @@
-# Launch process: proposed ideal state
+# Launch Process — Ideal State
 
 ![Launch process in a FigJam-style layout](launch-process-ideal-state.svg)
 

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="3360" height="1700" viewBox="0 0 3360 1700" role="img" aria-labelledby="title desc">
-<title id="title">Launch process: proposed ideal state</title><desc id="desc">Seven-stage launch process, with centered supporting cards, team alignment, seven execution workstreams and feedback loops.</desc>
+<title id="title">Launch Process — Ideal State</title><desc id="desc">Seven-stage launch process, with centered supporting cards, team alignment, seven execution workstreams and feedback loops.</desc>
 <defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r="1.2" fill="#d8dde1"/></pattern><marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#64686b" stroke-width="2"/></marker></defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#16191c}.heading{font-weight:700;font-size:23px}.body{font-size:21px}.wire{fill:none;stroke:#64686b;stroke-width:2;stroke-linejoin:round;stroke-linecap:round}.card{fill:#fff;stroke:#777d81;stroke-width:2}</style>
 <rect width="3360" height="1700" fill="#fafbfc"/><rect width="3360" height="1700" fill="url(#dots)"/>
-<text x="50" y="72" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" text-anchor="start">Launch process · proposed ideal state</text>
+<text x="50" y="72" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" text-anchor="start">Launch Process — Ideal State</text>
 <path class="wire" d="M 3060 560 V 170 H 100 V 520 H 300 V 548" marker-end="url(#arrow)"/>
 <text x="1680" y="145" class="body" text-anchor="middle">Feed learning into the next launch</text>
 <path class="wire" d="M 2600 560 V 470 H 2140 V 548" marker-end="url(#arrow)"/>

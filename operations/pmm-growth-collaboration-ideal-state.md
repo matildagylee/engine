@@ -1,4 +1,4 @@
-# PMM × Growth: how we work together
+# PMM–Growth Collaboration — Ideal State
 
 ![PMM and Growth collaboration model](pmm-growth-collaboration-ideal-state.svg)
 
