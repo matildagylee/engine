@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2800" height="2280" viewBox="0 0 2800 2280" role="img" aria-labelledby="title desc">
+<title id="title">PMM × Growth: how we work together</title><desc id="desc">PMM shared strategy connects to six Growth teams, each with inputs, delivery ownership and a feedback loop.</desc>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r="1.2" fill="#d8dde1"/></pattern><marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#64686b" stroke-width="2"/></marker></defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#16191c}.heading{font-weight:700;font-size:23px}.body{font-size:21px}.wire{fill:none;stroke:#64686b;stroke-width:2;stroke-linejoin:round;stroke-linecap:round}.card{fill:#fff;stroke:#777d81;stroke-width:2}</style>
+<rect width="2800" height="2280" fill="#fafbfc"/><rect width="2800" height="2280" fill="url(#dots)"/>
+<text x="50" y="72" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" text-anchor="start">PMM × Growth · how we work together</text>
+<text x="50" y="115" class="body" text-anchor="start">Start together before launch. Keep learning after launch.</text>
+<rect class="card" x="840.0" y="170" width="1120" height="260" rx="5"/>
+<text x="862.0" y="206" class="heading" text-anchor="start">PMM owns the shared strategy</text>
+<text x="862.0" y="249" class="body" text-anchor="start">• Who we target: ideal customer profile (ICP) and personas</text>
+<text x="862.0" y="279" class="body" text-anchor="start">• Customer pain points, positioning and value</text>
+<text x="862.0" y="309" class="body" text-anchor="start">• Core messages, proof points and launch story</text>
+<text x="862.0" y="339" class="body" text-anchor="start">• One shared brief, with owners, goals and dates</text>
+<path class="wire" d="M 1400 430 V 470"/>
+<path class="wire" d="M 300 470 H 2500"/>
+<path class="wire" d="M 300 470 V 508" marker-end="url(#arrow)"/>
+<path class="wire" d="M 740 470 V 508" marker-end="url(#arrow)"/>
+<path class="wire" d="M 1180 470 V 508" marker-end="url(#arrow)"/>
+<path class="wire" d="M 1620 470 V 508" marker-end="url(#arrow)"/>
+<path class="wire" d="M 2060 470 V 508" marker-end="url(#arrow)"/>
+<path class="wire" d="M 2500 470 V 508" marker-end="url(#arrow)"/>
+<rect class="card" x="100.0" y="520" width="400" height="90" rx="5"/>
+<text x="300" y="556" class="heading" text-anchor="middle">AEO / SEO</text>
+<path class="wire" d="M 300 610 V 638" marker-end="url(#arrow)"/>
+<rect class="card" x="100.0" y="650" width="400" height="360" rx="5"/>
+<text x="122.0" y="686" class="heading" text-anchor="start">PMM provides</text>
+<text x="122.0" y="729" class="body" text-anchor="start">• Plan content before launch</text>
+<text x="122.0" y="759" class="body" text-anchor="start">• Match customer questions to</text>
+<text x="122.0" y="789" class="body" text-anchor="start">  topics</text>
+<text x="122.0" y="819" class="body" text-anchor="start">• Connect content to the launch</text>
+<text x="122.0" y="849" class="body" text-anchor="start">  story</text>
+<text x="122.0" y="879" class="body" text-anchor="start">• Provide product facts and proof</text>
+<path class="wire" d="M 300 1010 V 1048" marker-end="url(#arrow)"/>
+<rect class="card" x="100.0" y="1060" width="400" height="360" rx="5"/>
+<text x="122.0" y="1096" class="heading" text-anchor="start">Channel team owns</text>
+<text x="122.0" y="1139" class="body" text-anchor="start">• Own search and answer research</text>
+<text x="122.0" y="1169" class="body" text-anchor="start">• Build the content plan and</text>
+<text x="122.0" y="1199" class="body" text-anchor="start">  calendar</text>
+<text x="122.0" y="1229" class="body" text-anchor="start">• Create and optimize content</text>
+<text x="122.0" y="1259" class="body" text-anchor="start">• Link content to launch pages</text>
+<path class="wire" d="M 300 1420 V 1458" marker-end="url(#arrow)"/>
+<rect class="card" x="100.0" y="1470" width="400" height="300" rx="5"/>
+<text x="122.0" y="1506" class="heading" text-anchor="start">Feedback to PMM</text>
+<text x="122.0" y="1549" class="body" text-anchor="start">• Search and AI answer visibility</text>
+<text x="122.0" y="1579" class="body" text-anchor="start">• Content engagement and</text>
+<text x="122.0" y="1609" class="body" text-anchor="start">  conversions</text>
+<text x="122.0" y="1639" class="body" text-anchor="start">• New customer questions</text>
+<path class="wire" d="M 300 1770 V 1830"/>
+<rect class="card" x="540.0" y="520" width="400" height="90" rx="5"/>
+<text x="740" y="556" class="heading" text-anchor="middle">Landing page · Web + Design</text>
+<path class="wire" d="M 740 610 V 638" marker-end="url(#arrow)"/>
+<rect class="card" x="540.0" y="650" width="400" height="360" rx="5"/>
+<text x="562.0" y="686" class="heading" text-anchor="start">PMM provides</text>
+<text x="562.0" y="729" class="body" text-anchor="start">• Define audience and page goal</text>
+<text x="562.0" y="759" class="body" text-anchor="start">• Provide message, proof and CTA</text>
+<text x="562.0" y="789" class="body" text-anchor="start">• Brief the page story with the team</text>
+<text x="562.0" y="819" class="body" text-anchor="start">• Check product claims and copy</text>
+<path class="wire" d="M 740 1010 V 1048" marker-end="url(#arrow)"/>
+<rect class="card" x="540.0" y="1060" width="400" height="360" rx="5"/>
+<text x="562.0" y="1096" class="heading" text-anchor="start">Channel team owns</text>
+<text x="562.0" y="1139" class="body" text-anchor="start">• Web owns the build and tracking</text>
+<text x="562.0" y="1169" class="body" text-anchor="start">• Design owns layout and visuals</text>
+<text x="562.0" y="1199" class="body" text-anchor="start">• Co-create page flow with PMM</text>
+<text x="562.0" y="1229" class="body" text-anchor="start">• Check usability and accessibility</text>
+<path class="wire" d="M 740 1420 V 1458" marker-end="url(#arrow)"/>
+<rect class="card" x="540.0" y="1470" width="400" height="300" rx="5"/>
+<text x="562.0" y="1506" class="heading" text-anchor="start">Feedback to PMM</text>
+<text x="562.0" y="1549" class="body" text-anchor="start">• Page conversion and lead quality</text>
+<text x="562.0" y="1579" class="body" text-anchor="start">• Visitor behavior and test results</text>
+<text x="562.0" y="1609" class="body" text-anchor="start">• Gaps in the page story</text>
+<path class="wire" d="M 740 1770 V 1830"/>
+<rect class="card" x="980.0" y="520" width="400" height="90" rx="5"/>
+<text x="1180" y="556" class="heading" text-anchor="middle">Growth · Paid ads</text>
+<path class="wire" d="M 1180 610 V 638" marker-end="url(#arrow)"/>
+<rect class="card" x="980.0" y="650" width="400" height="360" rx="5"/>
+<text x="1002.0" y="686" class="heading" text-anchor="start">PMM provides</text>
+<text x="1002.0" y="729" class="body" text-anchor="start">• Provide message angles and proof</text>
+<text x="1002.0" y="759" class="body" text-anchor="start">• Define audience and pain points</text>
+<text x="1002.0" y="789" class="body" text-anchor="start">• Match ads to landing-page</text>
+<text x="1002.0" y="819" class="body" text-anchor="start">  promises</text>
+<text x="1002.0" y="849" class="body" text-anchor="start">• Agree which messages to test</text>
+<path class="wire" d="M 1180 1010 V 1048" marker-end="url(#arrow)"/>
+<rect class="card" x="980.0" y="1060" width="400" height="360" rx="5"/>
+<text x="1002.0" y="1096" class="heading" text-anchor="start">Channel team owns</text>
+<text x="1002.0" y="1139" class="body" text-anchor="start">• Own ad creative with Design</text>
+<text x="1002.0" y="1169" class="body" text-anchor="start">• Run campaigns and manage</text>
+<text x="1002.0" y="1199" class="body" text-anchor="start">  spend</text>
+<text x="1002.0" y="1229" class="body" text-anchor="start">• Test audiences and messages</text>
+<text x="1002.0" y="1259" class="body" text-anchor="start">• Track conversions and lead quality</text>
+<path class="wire" d="M 1180 1420 V 1458" marker-end="url(#arrow)"/>
+<rect class="card" x="980.0" y="1470" width="400" height="300" rx="5"/>
+<text x="1002.0" y="1506" class="heading" text-anchor="start">Feedback to PMM</text>
+<text x="1002.0" y="1549" class="body" text-anchor="start">• Winning messages by audience</text>
+<text x="1002.0" y="1579" class="body" text-anchor="start">• Cost and quality of conversions</text>
+<text x="1002.0" y="1609" class="body" text-anchor="start">• What to test next</text>
+<path class="wire" d="M 1180 1770 V 1830"/>
+<rect class="card" x="1420.0" y="520" width="400" height="90" rx="5"/>
+<text x="1620" y="556" class="heading" text-anchor="middle">Outbound</text>
+<path class="wire" d="M 1620 610 V 638" marker-end="url(#arrow)"/>
+<rect class="card" x="1420.0" y="650" width="400" height="360" rx="5"/>
+<text x="1442.0" y="686" class="heading" text-anchor="start">PMM provides</text>
+<text x="1442.0" y="729" class="body" text-anchor="start">• Share ICP and target personas</text>
+<text x="1442.0" y="759" class="body" text-anchor="start">• Explain pains and buying triggers</text>
+<text x="1442.0" y="789" class="body" text-anchor="start">• Provide messages and proof</text>
+<text x="1442.0" y="819" class="body" text-anchor="start">• Share objection responses</text>
+<path class="wire" d="M 1620 1010 V 1048" marker-end="url(#arrow)"/>
+<rect class="card" x="1420.0" y="1060" width="400" height="360" rx="5"/>
+<text x="1442.0" y="1096" class="heading" text-anchor="start">Channel team owns</text>
+<text x="1442.0" y="1139" class="body" text-anchor="start">• Own lists and outreach sequences</text>
+<text x="1442.0" y="1169" class="body" text-anchor="start">• Adapt messages to each prospect</text>
+<text x="1442.0" y="1199" class="body" text-anchor="start">• Run outreach and follow-up</text>
+<text x="1442.0" y="1229" class="body" text-anchor="start">• Keep sales feedback visible</text>
+<path class="wire" d="M 1620 1420 V 1458" marker-end="url(#arrow)"/>
+<rect class="card" x="1420.0" y="1470" width="400" height="300" rx="5"/>
+<text x="1442.0" y="1506" class="heading" text-anchor="start">Feedback to PMM</text>
+<text x="1442.0" y="1549" class="body" text-anchor="start">• Replies and meetings booked</text>
+<text x="1442.0" y="1579" class="body" text-anchor="start">• Objections and deal quality</text>
+<text x="1442.0" y="1609" class="body" text-anchor="start">• Changes needed to ICP or copy</text>
+<path class="wire" d="M 1620 1770 V 1830"/>
+<rect class="card" x="1860.0" y="520" width="400" height="90" rx="5"/>
+<text x="2060" y="556" class="heading" text-anchor="middle">ABM</text>
+<path class="wire" d="M 2060 610 V 638" marker-end="url(#arrow)"/>
+<rect class="card" x="1860.0" y="650" width="400" height="360" rx="5"/>
+<text x="1882.0" y="686" class="heading" text-anchor="start">PMM provides</text>
+<text x="1882.0" y="729" class="body" text-anchor="start">• Define priority personas and pains</text>
+<text x="1882.0" y="759" class="body" text-anchor="start">• Provide account-relevant</text>
+<text x="1882.0" y="789" class="body" text-anchor="start">  messages</text>
+<text x="1882.0" y="819" class="body" text-anchor="start">• Map content to buying roles</text>
+<text x="1882.0" y="849" class="body" text-anchor="start">• Build the story with account teams</text>
+<path class="wire" d="M 2060 1010 V 1048" marker-end="url(#arrow)"/>
+<rect class="card" x="1860.0" y="1060" width="400" height="360" rx="5"/>
+<text x="1882.0" y="1096" class="heading" text-anchor="start">Channel team owns</text>
+<text x="1882.0" y="1139" class="body" text-anchor="start">• Choose accounts with Sales</text>
+<text x="1882.0" y="1169" class="body" text-anchor="start">• Own account plans and activation</text>
+<text x="1882.0" y="1199" class="body" text-anchor="start">• Personalize content with PMM</text>
+<text x="1882.0" y="1229" class="body" text-anchor="start">• Coordinate channel follow-up</text>
+<path class="wire" d="M 2060 1420 V 1458" marker-end="url(#arrow)"/>
+<rect class="card" x="1860.0" y="1470" width="400" height="300" rx="5"/>
+<text x="1882.0" y="1506" class="heading" text-anchor="start">Feedback to PMM</text>
+<text x="1882.0" y="1549" class="body" text-anchor="start">• Buying-group engagement</text>
+<text x="1882.0" y="1579" class="body" text-anchor="start">• Account progression and pipeline</text>
+<text x="1882.0" y="1609" class="body" text-anchor="start">• Content gaps by buying role</text>
+<path class="wire" d="M 2060 1770 V 1830"/>
+<rect class="card" x="2300.0" y="520" width="400" height="90" rx="5"/>
+<text x="2500" y="556" class="heading" text-anchor="middle">Events</text>
+<path class="wire" d="M 2500 610 V 638" marker-end="url(#arrow)"/>
+<rect class="card" x="2300.0" y="650" width="400" height="360" rx="5"/>
+<text x="2322.0" y="686" class="heading" text-anchor="start">PMM provides</text>
+<text x="2322.0" y="729" class="body" text-anchor="start">• Shape the message and story</text>
+<text x="2322.0" y="759" class="body" text-anchor="start">• Co-create the agenda and content</text>
+<text x="2322.0" y="789" class="body" text-anchor="start">• Provide speaker briefs and proof</text>
+<text x="2322.0" y="819" class="body" text-anchor="start">• Connect the event to launch goals</text>
+<path class="wire" d="M 2500 1010 V 1048" marker-end="url(#arrow)"/>
+<rect class="card" x="2300.0" y="1060" width="400" height="360" rx="5"/>
+<text x="2322.0" y="1096" class="heading" text-anchor="start">Channel team owns</text>
+<text x="2322.0" y="1139" class="body" text-anchor="start">• Own event plan and delivery</text>
+<text x="2322.0" y="1169" class="body" text-anchor="start">• Manage speakers and promotion</text>
+<text x="2322.0" y="1199" class="body" text-anchor="start">• Build assets with Design</text>
+<text x="2322.0" y="1229" class="body" text-anchor="start">• Coordinate lead handoff and</text>
+<text x="2322.0" y="1259" class="body" text-anchor="start">  follow-up</text>
+<path class="wire" d="M 2500 1420 V 1458" marker-end="url(#arrow)"/>
+<rect class="card" x="2300.0" y="1470" width="400" height="300" rx="5"/>
+<text x="2322.0" y="1506" class="heading" text-anchor="start">Feedback to PMM</text>
+<text x="2322.0" y="1549" class="body" text-anchor="start">• Target-audience attendance</text>
+<text x="2322.0" y="1579" class="body" text-anchor="start">• Content interest and questions</text>
+<text x="2322.0" y="1609" class="body" text-anchor="start">• Meetings and pipeline follow-up</text>
+<path class="wire" d="M 2500 1770 V 1830"/>
+<path class="wire" d="M 300 1830 H 2500"/>
+<path class="wire" d="M 1400 1830 V 1888" marker-end="url(#arrow)"/>
+<rect class="card" x="840.0" y="1900" width="1120" height="250" rx="5"/>
+<text x="862.0" y="1936" class="heading" text-anchor="start">Review together and update the shared brief</text>
+<text x="862.0" y="1979" class="body" text-anchor="start">• Before launch: agree the plan, assets, tests and success measures</text>
+<text x="862.0" y="2009" class="body" text-anchor="start">• During launch: review results and fix message or channel gaps</text>
+<text x="862.0" y="2039" class="body" text-anchor="start">• After launch: update messaging, personas and the next content plan</text>
+<text x="862.0" y="2069" class="body" text-anchor="start">• PMM owns strategy; channel teams own delivery and channel results</text>
+<path class="wire" d="M 1960 2025 H 2750 V 300 H 1972" marker-end="url(#arrow)"/>
+<text x="2730" y="2220" class="body" text-anchor="end">Proposed working model · confirm team roles and measures</text>
+</svg>
